@@ -43,13 +43,13 @@
 
 ---
 ## Quick Start
-How can a user get the project up and running in the shortest amount of time? Docker is a good tool for this if the project supports it.
+Installing Dowen_fan:
 
-### Docker
-Example deployment if project supports Docker.
+git clone https://github.com/AlagurajVeluchamy/Dowen_fan.git; cd Dowen_fan
 
-### Developers Build
-Example of how to manually build the project
+## Description:
+
+Dowen_fan is a pipeline that enables user to significantly interacting ChIA-PET loops. This tool is robust and efficient in deducing the Insulated Neighborhoods.
 
 #### Dependencies
 cutadapt (v 4.3) 
