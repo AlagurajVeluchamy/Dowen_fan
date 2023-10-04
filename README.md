@@ -53,19 +53,19 @@ Example of how to manually build the project
 
 #### Dependencies
 cutadapt (v 4.3) 
-
+   <br />
 macs14 (v 1.4.2) 
-
+   <br />
 bowtie (v 2.3.5.1) 
-
+   <br />
 samtools (v 1.15.1) 
-
+   <br />
 bedtools (v 2.30.0) 
-
+   <br />
 Python 
-
+   <br />
 R (v 4.2.2) 
-
+   <br />
 
 ## Usage 
 Explain how to use the tool here.  Dive into the subcommands and optional flags.  Give examples of the tool running and what a successful execution might look like.
