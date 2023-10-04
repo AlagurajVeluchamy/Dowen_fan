@@ -1,7 +1,7 @@
 <p align="center">
 
   <h1 align="center">
-    [Down_Fan ChIA-PET data processing and Insulated neighborhood building pipeline]
+    [Down_Fan]
   </h1>
 
   <p align="center">
@@ -25,7 +25,7 @@
 
 
   <p align="center">
-   [PROVIDE A HIGH LEVEL DESCRIPTION OF YOUR PROJECT] 
+   [ChIA-PET data processing and Insulated neighborhood building pipeline] 
    <br />
    <a href="#"><strong>Explore the docs »</strong></a>
    <br />
