@@ -67,8 +67,17 @@ Python
 R (v 4.2.2) 
    <br />
 
-## Usage 
-Explain how to use the tool here.  Dive into the subcommands and optional flags.  Give examples of the tool running and what a successful execution might look like.
+## Usage  
+
+sh singlenodeChIA-PETv5.sh -f file_R1.fastq -r file_R2.fastq -b fullpath_bowtieindexname  
+
+where: 
+
+f1 is forward fastq read file from ChIA-PET 
+
+r1 is reverse fastq read file from ChIA-PET 
+
+b is full path including the index name (bowtie indexed genome) 
 
 ### Contact
 Provide contact information if the author of the code chooses to.  Issues are another effective way of communication as well.
