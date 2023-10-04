@@ -1,7 +1,7 @@
 <p align="center">
 
   <h1 align="center">
-    [PROJECT NAME]
+    [Down_Fan ChIA-PET data processing and Insulated neighborhood building pipeline]
   </h1>
 
   <p align="center">
